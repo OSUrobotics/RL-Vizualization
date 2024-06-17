@@ -18,8 +18,8 @@ This repository provides a graphical user interface (GUI) for generating figures
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/rl-evaluation-plotting.git
-   cd rl-evaluation-plotting
+   git clone https://github.com/OSUrobotics/RL-Vizualization.git
+   cd RL-Vizualization
    ```
 
 2. Install dependencies:
@@ -59,17 +59,10 @@ python Data_analysis_gui.py
            return RL_dataframe
    ```
 
-3. **Integrating Custom Scripts**: Integrate your custom plotting scripts into the GUI by modifying the `gui.py` file or using as standalone scripts.
+3. **Integrating Custom Scripts**: Integrate your custom plotting scripts into the GUI by modifying the `Data_analysis_gui.py` file or using as standalone scripts.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your enhancements.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
-For questions or support, please contact [your_email@example.com](mailto:your_email@example.com).
-
----
-
-Feel free to customize this template further based on specific features, dependencies, or guidelines relevant to your project. Adjust the sections and details as necessary to best reflect the functionality and purpose of your repository.
+For questions or support, please contact [swensoni@oregonstate.edu](mailto:swenson@oregonstate.edu).
